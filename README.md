@@ -1,7 +1,7 @@
 # AbrahamLim
 My Artificial Intelligence Group Project - Lipstick Recommendation System
 
-Since Nowadays, people are becoming more fond of makeup. Makeup has become something that is 
+Since nowadays, people are becoming more fond of makeup. Makeup has become something that is 
 normalized in our society as people of all ages are using makeup to make themselves look more 
 presentable in front of other people. Makeup is used to hide a person’s imperfection and help them 
 to be able to fit into society. Makeup can help a person to look more confident and enhance their 
