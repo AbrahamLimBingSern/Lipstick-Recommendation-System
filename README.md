@@ -16,4 +16,4 @@ blush, lip gloss, brow pencil, lipstick and many more. These makeup products had
 produced and sold due to demand from customers. Other than that, new makeup products are 
 produced to satisfy the demand of customers.
 
-[<img src="https://github.com/{{ contributor }}.png" width="60px;"/><br /><sub><ahref="https://github.com/{{ contributor }}">{{ contributor }}</a></sub>](https://github.com/{{ weihan07 }}/{{ Lipstick-Recommendation-System }}
+[<img src="https://github.com/{{ weihan07 }}.png" width="60px;"/><br /><sub><ahref="https://github.com/{{ weihan07 }}">{{ weihan07 }}</a></sub>](https://github.com/{{ weihan07 }}/{{ Lipstick-Recommendation-System }}
