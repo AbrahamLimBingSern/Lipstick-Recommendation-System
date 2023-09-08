@@ -14,4 +14,3 @@ new items for their customers. Examples of makeup products are mascara, conceale
 blush, lip gloss, brow pencil, lipstick and many more. These makeup products had been massively 
 produced and sold due to demand from customers. Other than that, new makeup products are 
 produced to satisfy the demand of customers.
-
