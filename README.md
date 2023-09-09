@@ -1,7 +1,5 @@
-# Lipstick Recommendation System
-My Artificial Intelligence Group Project 
-
-![giphy](https://github.com/AbrahamLimBingSern/AbrahamLimBingSern/assets/139485622/bf6472ce-6b88-4994-81f7-ee4f26c9ebc0)
+# AbrahamLim
+My Artificial Intelligence Group Project - Lipstick Recommendation System
 
 Since nowadays, people are becoming more fond of makeup. Makeup has become something that is 
 normalized in our society as people of all ages are using makeup to make themselves look more 
@@ -17,5 +15,3 @@ new items for their customers. Examples of makeup products are mascara, conceale
 blush, lip gloss, brow pencil, lipstick and many more. These makeup products had been massively 
 produced and sold due to demand from customers. Other than that, new makeup products are 
 produced to satisfy the demand of customers.
-
-
