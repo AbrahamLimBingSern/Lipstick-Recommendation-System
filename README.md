@@ -1,4 +1,5 @@
-# My Artificial Intelligence Group Project - Lipstick Recommendation System
+# AbrahamLim
+My Artificial Intelligence Group Project - Lipstick Recommendation System
 
 Since nowadays, people are becoming more fond of makeup. Makeup has become something that is 
 normalized in our society as people of all ages are using makeup to make themselves look more 
